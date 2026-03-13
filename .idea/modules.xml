@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Seminar4_1096/Seminar4_1096.iml" filepath="$PROJECT_DIR$/Seminar4_1096/Seminar4_1096.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminarii.iml" filepath="$PROJECT_DIR$/Seminarii.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar4_1096/SingleFactory/SingleFactory.iml" filepath="$PROJECT_DIR$/Seminar4_1096/SingleFactory/SingleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar4_1096/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Seminar4_1096/Singleton/Singleton.iml" />
+    </modules>
+  </component>
+</project>
