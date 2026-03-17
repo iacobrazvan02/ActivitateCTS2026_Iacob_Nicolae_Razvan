@@ -1,7 +1,7 @@
-package ro.ase.cts.clase.loaders;
+package ro.ase.cts.builder01.loaders;
 
-import ro.ase.cts.clase.Angajat;
-import ro.ase.cts.clase.Aplicant;
+import ro.ase.cts.builder01.Angajat;
+import ro.ase.cts.builder01.Aplicant;
 
 import java.io.File;
 import java.io.FileNotFoundException;

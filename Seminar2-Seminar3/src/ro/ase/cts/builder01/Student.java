@@ -1,6 +1,4 @@
-package ro.ase.cts.clase;
-
-import java.util.Arrays;
+package ro.ase.cts.builder01;
 
 public class Student extends Aplicant {
     protected String facultate;
