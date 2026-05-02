@@ -1,0 +1,14 @@
+package ro.ase.cts.clase.decorator;
+
+import ro.ase.cts.clase.NotaDePlataAbstract;
+
+public class NotaDePlataNouAn extends NotaDePlataDecorator {
+    public NotaDePlataNouAn(NotaDePlataAbstract notaDePlata) {
+        super(notaDePlata);
+    }
+
+    @Override
+    public void printeazaFelicitare() {
+
+    }
+}
