@@ -1,0 +1,8 @@
+O companie de turism deține un hotel uriaș și o aplicație pentru evidența cazărilor.
+ Pentru fiecare cazare din sistem, se rețin informații despre Tipul de Cameră
+ (Denumire: Standard, Apartament, Deluxe, Număr paturi, Preț de bază, Are balcon) și detalii
+ despre Sejurul curent (Nume turist, Număr nopți, Data check-in). Deoarece hotelul este plin și
+ turiștii vin și pleacă constant, crearea detaliilor despre tipul de cameră pentru fiecare sejur în
+ parte ocupă foarte multă memorie. Să se implementeze un design pattern care să asigure optimizarea memoriei,
+ astfel încât caracteristicile fixe ale camerelor să fie refolosite din memorie, iar datele specifice turistului
+ să fie transmise doar la afișare
