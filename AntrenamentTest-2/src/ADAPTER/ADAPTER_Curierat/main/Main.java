@@ -20,6 +20,6 @@ public class Main {
     private static void proceseazaColet(AbstractColet colet) {
         System.out.println("Destinatar: " + colet.obtineNumeDestinatar());
         System.out.println("Adresa: " + colet.obtineAdresaLivrare());
-        System.out.println("Greutate: " + colet.obtineGreutate() + " kg");
+        System.out.println("Greutate: " + colet.obtineGreutatePachet() + " kg");
     }
 }

@@ -8,7 +8,7 @@ public class ColetDrona {
     public ColetDrona(String coordonateGPS, String clientDrona, double masaKg) {
         this.coordonateGPS = coordonateGPS;
         this.clientDrona = clientDrona;
-        this.masaKg = masaKg;
+        this.masaKgPachet = masaKg;
     }
 
     public String getClientDrona() {

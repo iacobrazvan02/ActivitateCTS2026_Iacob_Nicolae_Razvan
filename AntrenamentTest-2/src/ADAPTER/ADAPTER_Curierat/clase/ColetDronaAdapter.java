@@ -18,7 +18,7 @@ public class ColetDronaAdapter implements AbstractColet{
     }
 
     @Override
-    public double obtineGreutate() {
+    public double obtineGreutatePachet() {
         return coletDrona.getMasaKg();
     }
 }

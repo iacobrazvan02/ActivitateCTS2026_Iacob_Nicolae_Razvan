@@ -22,7 +22,7 @@ public class ColetIntern implements AbstractColet{
     }
 
     @Override
-    public double obtineGreutate() {
+    public double obtineGreutatePachet() {
         return greutate;
     }
 }
